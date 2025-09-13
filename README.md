@@ -1,2 +1,1 @@
-# first ever account on Github
-new account
+print("hello world")
